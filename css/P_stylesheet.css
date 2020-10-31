@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    font-size: 300%;
+    font-family: 'Dancing Script', cursive;
+}
+.collapse {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.banner
+{
+    margin-top: 12vh;
+    height: 70vh;
+    background-color: cadetblue;
+    background-image: url('banner.jpg');
+    background-position: center;
+    background-size: cover;
+    
+}
+.navbar-nav{
+   
+    padding-left: 10px;
+    /*font-family: 'Dancing Script', cursive;*/
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size:large;
+}
+.sub-banner{
+    height: fit-content;
+    text-align: center;
+    padding-top: 20px;
+    font-family:'Dancing Script', cursive;
+    font-weight: normal;
+}
